@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "eevneon.tailored.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
